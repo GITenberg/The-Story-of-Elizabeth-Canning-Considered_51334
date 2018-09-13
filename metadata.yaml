@@ -1,0 +1,31 @@
+_repo: The-Story-of-Elizabeth-Canning-Considered_51334
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hill, John
+    aliases:
+    - Bardana, Hypochrondriasis, Sir
+    - Seymour, Juliana-Susannah
+    - Crine, George
+    - Uvedale, Christian
+    deathdate: 1775
+    gutenberg_agent_id: '47882'
+    url: http://www.gutenberg.org/2009/agents/47882
+description: ''
+gutenberg_issued: '2016-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51334'
+  lccn: '45048425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fielding, Henry, 1707-1754. Clear state of the case of Elizabeth Canning'
+- !lcsh 'Canning, Elizabeth, 1734-1773 -- Trials, litigation, etc.'
+- !lcsh 'Trials (Perjury) -- England'
+- !lcc 'KD'
+- GITenberg
+title: The Story of Elizabeth Canning Considered
+url: http://www.gutenberg.org/ebooks/51334
